@@ -588,13 +588,13 @@ color: #878787;
 
 
 #indepth_break_2 .indepth_parallax_back{
-	background-image: url(../images/break1.jpg);
+	background-image: url(../images/break3.jpg);
 	//background-size: 90% auto;
 	//background-color: white;
 }
 
-#indepth_page2 .indepth_title{
-	color: #000;
+#indepth_break_3 .indepth_parallax_back{
+	background-image: url(../images/break2.jpg);
 }
 
 
