@@ -509,7 +509,7 @@ margin-top: 15px;
 }
 
 #indepth_page1{
-	background: url(../images/pista.jpg) center bottom no-repeat, url(../images/pista_back.png) center repeat;;
+	background: url(../images/pista.jpg) center bottom no-repeat;
 	height: 3050px;	
 	background-color: #586398;
 }
